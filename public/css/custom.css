@@ -1,0 +1,59 @@
+.sidebar-toggler-wrapper {
+    margin-bottom: 10px !important;
+}
+.pagination {
+    margin:0;
+}
+.form-control-feedback {
+    top: 9px !important;
+    right: 10px !important;
+    height: 16px !important;
+    width: 16px !important;
+}
+.popover-content > .btn-group > .btn {
+    margin-right: 0 !important;
+}
+.input-group {
+    width: 100%;
+}
+.portlet > .portlet-title > .caption > i {
+    font-size: 14px;
+}
+.fa-6 {  font-size: 6em;  }
+.fa-5 {  font-size: 5em;  }
+.fa-4 {  font-size: 4em;  }
+.fa-3 {  font-size: 3em;  }
+.fa-2 {  font-size: 2em;  }
+
+/*CALENDARIO*/
+.label-urgente {
+    background-color: #bc4c3c;
+}
+.label-noauto {
+    background-color: #ff9747;
+}
+.label-auto {
+    background-color: #f2ce38;
+}
+#external-events {
+    border: 1px dotted #16B376;
+    background-color: #F3F3F3;
+    min-height: 584px;
+    padding-bottom: 5px;
+    padding-top:5px;
+}
+.bootstrap-switch.bootstrap-switch-disabled,
+.bootstrap-switch.bootstrap-switch-readonly {
+    opacity: 1 !important;
+}
+.bootstrap-switch.bootstrap-switch-readonly .bootstrap-switch-container .bootstrap-switch-success,
+.bootstrap-switch.bootstrap-switch-readonly .bootstrap-switch-container .bootstrap-switch-danger {
+    background: #a8a8a8 !important;
+}
+.table > tbody > tr > td {
+    padding: 1px;
+}
+.table > thead > tr > th {
+    padding: 1px;
+    font-size: 13px;
+}
